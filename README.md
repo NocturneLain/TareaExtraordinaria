@@ -8,6 +8,7 @@
   <li>Sistema binario</li>
   <li>Programación</li>
   <li>Editores de Texto</li>
+  <li>Conceptos aplicados a la vida real</li>
   :)
 
 
